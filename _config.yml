@@ -1,0 +1,15 @@
+title: bruk2fa.no
+description: Tofaktorautentisering (2FA) forklart på norsk
+lang: nb
+author: Christian Andersson
+theme: minima
+# Served at https://christian-andersson.github.io/bruk2fa.no until the custom domain is set.
+# Change baseurl to "" and add a CNAME file containing bruk2fa.no when switching.
+baseurl: "/bruk2fa.no"
+url: "https://christian-andersson.github.io"
+header_pages:
+  - index.md
+  - blogg.md
+  - privacy-policy.md
+exclude:
+  - README.md
